@@ -4,7 +4,7 @@ Features:
 
 -User Authentication
 *Light and Dark mode.
-*API calls with Axios and Redux ToolKit.
++API calls with Axios and Redux ToolKit.
 *Actors and Movie Details Page.
 *Watchlist and List of Favorite Movies.
 *Movie Search Functionality.
