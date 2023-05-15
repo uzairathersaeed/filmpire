@@ -1,6 +1,4 @@
 # Filmpire Uzair
-# filmpire
-![Uploading Filmpire.png…]()
 
 Features:
 
