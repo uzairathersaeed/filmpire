@@ -1,7 +1,8 @@
 # Filmpire Uzair
 # filmpire
-Features ![Uploading pngkey.com-sparkle-emoji-png-9727941.png…]()
- :
+![Uploading Filmpire.png…]()
+
+Features:
 
 User Authentication,
 Light and Dark mode,
