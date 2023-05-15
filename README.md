@@ -12,4 +12,5 @@ Features:
 * Watchlist and List of Favorite Movies.
 * Movie Search Functionality.
 * Alan works as an in-app voice assistant for the Filmpire project.
-When  click on the voice icon and try saying like "Surprise me", "Search for Ant man"  
+
+When  click on the voice icon and try saying like "Surprise me", "Search for Ant man".
